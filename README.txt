@@ -17,7 +17,6 @@ This repository contains both tasks for the coursework where:
   - pandas
   - scikit-learn
   - seaborn
-
 -For task 2 you have to modify line 27 to have your own  file path for the UCI HAR dataset- you can do this by locating where you downloaded the dataset, right clicking the folder "UCI Har dataset" and pressing copy as path, then paste where the original path is in the code.
 
 ## Installation
